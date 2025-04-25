@@ -1,2 +1,2 @@
 # Portfolio
-A portfolio of data analytics projects using SQL, Python, Excel, Azure, Tableau, Looker Studio, and Plotly. Features real-world datasets, EDA, dashboards, and insights for business decision-making.
+Welcome to my Data Analytics Portfolio – a curated collection of real-world projects showcasing my skills in data analysis, visualization, and cloud-based tools. Each project is designed to extract insights, solve business problems, and communicate findings effectively through dashboards and reports.
