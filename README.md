@@ -9,7 +9,7 @@ Visualization: Tableau, Plotly, Google Looker Studio, Excel
 
 Cloud Platforms: Microsoft Azure
 
-Other Tools: Jupyter Notebook, VS Code, Git
+Other Tools: Jupyter Notebook, VS Code, Git.
 
 
 
