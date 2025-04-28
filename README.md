@@ -40,7 +40,7 @@ Regions with higher life expectancy and freedom reported higher happiness levels
 
 Trust in government and generosity showed varying impact across regions
 
-#Project 2
+# Project 2
 
 📌 2024 Stack Overflow Survey Dashboard 
 
@@ -68,7 +68,7 @@ Cloud platforms like AWS and Azure continue to rise in popularity
 
 Developer demographics reveal shifts in experience levels and learning paths
 
-#Project 3
+# Project 3
 
 📌 Presentation on Stack Overflow Survey 
 
@@ -94,7 +94,7 @@ PostgreSQL remains a developer favorite across roles
 
 Tools align with remote work and scalable product demands
 
-#Project 4
+# Project 4
 
 📌 House Sales Analysis – King County, USA
 
@@ -122,7 +122,7 @@ Decision Tree model provided the most interpretable results
 
 Data preprocessing significantly improved prediction metrics
 
-#Project 5
+# Project 5
 
 📌 Chicago Insights: Crime, Education & Socioeconomics 
 
