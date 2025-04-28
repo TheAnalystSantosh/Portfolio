@@ -1,4 +1,4 @@
-# Portfolio
+# Santosh's Portfolio
 Welcome to my Data Analytics Portfolio – a curated collection of real-world projects showcasing my skills in data analysis, visualization, and cloud-based tools. Each project is designed to extract insights, solve business problems, and communicate findings effectively through dashboards and reports.
 
 
@@ -12,15 +12,29 @@ Cloud Platforms: Microsoft Azure
 Other Tools: Jupyter Notebook, VS Code, Git.
 
 
-📁 Project Highlights
-| Project |                                                         | Highlights |                                                                                              | Tools Used |
-Chicago Public Data Analysis                                        Analysis of crime, school, and socioeconomic data to uncover public safety and education trends              SQL, MySQL, Power BI
+📌 Chicago Public Data Analysis
+📈 Project Overview
+This project explores and analyzes public datasets from the city of Chicago, including crime reports, school performance, and socioeconomic indicators. The goal is to uncover patterns and correlations that inform community safety, education quality, and policy planning.
 
-Stack Overflow Survey Dashboard                                     Visual analysis of global developer trends using 250K+ responses from the 2024 survey                        Python, Pandas, Tableau
+🛠️ Tools & Technologies
+Languages: SQL
 
-King County Housing Price Prediction                                Predictive modeling of real estate prices using regression techniques                                        Python, Scikit-learn, Excel
+Libraries: None (SQL-based analysis)
 
-World Happiness Report Analysis                                     Visualization of global happiness metrics with a multi-layered dashboard                                     Python, Plotly, Looker Studio
+Visualization: Power BI / Google Looker Studio (optional)
+
+Platforms: Jupyter Notebook, MySQL
+
+📊 Key Features
+Joined and analyzed multiple datasets (schools, crimes, demographics)
+
+Used SQL queries to explore trends in crime rates, school safety, and economic impact
+
+Identified correlations between neighborhood conditions and school performance
+
+Delivered insights to support urban planning and policy decisions
+
+
 
 
 
