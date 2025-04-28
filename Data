@@ -1,0 +1,6 @@
+chicago-public-data-analysis/
+│
+├── sql_queries/           # SQL scripts for data exploration and analysis
+├── dashboards/            # Power BI / Looker Studio screenshots or links
+├── data/                  # Data files or links to public sources
+└── README.md              # Project description and findings
