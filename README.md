@@ -12,7 +12,10 @@ Cloud Platforms: Microsoft Azure
 Other Tools: Jupyter Notebook, VS Code, Git.
 
 
-📌 Chicago Public Data Analysis
+# Project 1
+
+📌 Chicago Public Data Analysis 
+
 📈 Project Overview
 This project explores and analyzes public datasets from the city of Chicago, including crime reports, school performance, and socioeconomic indicators. The goal is to uncover patterns and correlations that inform community safety, education quality, and policy planning.
 
