@@ -42,57 +42,84 @@ Trust in government and generosity showed varying impact across regions
 
 # Project 2
 
-📌 2024 Stack Overflow Survey Dashboard 
+📌 Tesla Financial Data Analysis & Forecasting
 
-📈 Project Overview
-Built a Tableau dashboard to visualize trends from over 250K global developer responses in the 2024 Stack Overflow survey.
+This project focuses on analyzing Tesla Inc.'s financial and stock performance using historical data and predicting future trends through time series forecasting. It includes data wrangling, exploratory data analysis (EDA), interactive dashboards, and forecasting models built with Python and Power BI.
 
-🛠️ Tools & Technologies
-Python: Pandas, NumPy
 
-Visualization: Tableau
+🚀 Project Overview
+To analyze historical financial data of Tesla and forecast key indicators like revenue and stock prices to support data-driven investment decisions.
 
-Dataset: Stack Overflow Developer Survey 2024
+🛠 Tools & Technologies
+
+Python: Pandas, Prophet, Matplotlib, Seaborn
+Power BI: Interactive dashboards and financial KPI visualization
+
+Jupyter Notebook
+Excel: For initial data cleaning and validation
 
 📊 Key Features
-Performed data cleaning and transformation
 
-Identified key trends in technology usage, tools, and developer roles
+Data Cleaning & Transformation: Parsed and cleaned Tesla’s financial and stock datasets for consistency.
 
-Created an interactive Tableau dashboard for stakeholder insights
+Exploratory Data Analysis (EDA): Visualized trends in revenue, gross margin, cash flow, and stock performance.
 
-📌 Key Insights
-Python, PostgreSQL, and React were among the most-used tools
+Forecasting Model: Used Meta’s Prophet library to forecast future stock prices and revenue with performance metrics (MAE, RMSE).
 
-Cloud platforms like AWS and Azure continue to rise in popularity
+Power BI Dashboard: Built a dashboard to track KPIs and visualize performance over time for executive-level reporting.
 
-Developer demographics reveal shifts in experience levels and learning paths
+📈 Forecasting Methodology
+
+Implemented Prophet for time series modeling.
+
+Considered seasonality, holidays, and trend components.
+
+Evaluated model accuracy using Mean Absolute Error (MAE) and Root Mean Squared Error (RMSE).
 
 # Project 3
 
-📌 Presentation on Stack Overflow Survey 
+📌 Tesla Financial Dashboard (Power BI)
 
-📈 Project Overview
-Delivered a data-driven presentation using the 2024 Stack Overflow Survey, focusing on developer tools, frameworks, and tech trends.
+This Power BI report presents an interactive dashboard analyzing Tesla Inc.'s financial performance and trends. It visualizes key financial metrics such as revenue, gross margin, net income, cash flow, and stock prices, enabling data-driven insights for business and investment evaluation.
 
-🛠️ Tools & Technologies
-Python: Pandas, Matplotlib
+🛠 Tools Used
 
-Dashboarding: PowerPoint, Tableau or Looker Studio (optional)
+Power BI Desktop
 
-📊 Key Features
-Summarized key technology trends
+Microsoft Excel (for initial data handling)
 
-Highlighted top tools (PostgreSQL, Redis, React, Supabase)
+Financial datasets from Yahoo Finance and Tesla investor reports
 
-Created charts and graphs for hiring and tech strategy decisions
+📊 Dashboard Features
 
-📌 Key Insights
-Frontend frameworks and modern DBs like Supabase gaining popularity
+Revenue & Net Income Trends: Visualizes Tesla’s quarterly revenue and profit over time.
 
-PostgreSQL remains a developer favorite across roles
+Stock Price Movements: Tracks historical closing prices and major volatility periods.
 
-Tools align with remote work and scalable product demands
+Gross Margin & Cash Flow Analysis: Evaluates financial health and operational efficiency.
+
+Forecasted Metrics: Displays future estimates of stock prices and revenue (sourced from Python forecasts).
+
+KPI Cards & Filters: Quickly track high-level performance indicators with interactive slicers for time and categories.
+
+🔍 Business Insights Enabled
+
+Identified consistent revenue growth across quarters.
+
+Tracked profitability changes and margin fluctuations.
+
+Detected seasonal performance patterns based on earnings cycles.
+
+Visual insights support investment analysis and executive decision-making.
+
+✅ How to Use
+
+1. Download and open the `.pbix` file using Power BI Desktop.
+2. Explore each page and interact with filters/slicers.
+3. Analyze trends, compare metrics over time, or export charts for presentations.
+
+> *This Power BI dashboard is part of a larger financial analysis project built for learning and portfolio showcasing.
+
 
 # Project 4
 
