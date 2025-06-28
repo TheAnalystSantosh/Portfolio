@@ -42,40 +42,63 @@ Trust in government and generosity showed varying impact across regions
 
 # Project 2
 
-📌 Tesla Financial Data Analysis & Forecasting
+📌 Tesla Financial Data Analysis & Forecasting – Python
 
-This project focuses on analyzing Tesla Inc.'s financial and stock performance using historical data and predicting future trends through time series forecasting. It includes data wrangling, exploratory data analysis (EDA), interactive dashboards, and forecasting models built with Python and Power BI.
+This project analyzes Tesla Inc.'s historical financial and stock data using Python and forecasts future stock prices and revenue using time series modeling. It demonstrates skills in data cleaning, exploratory data analysis (EDA), visualization, and forecasting using Prophet.
 
+🧠 Project Objective
 
-🚀 Project Overview
-To analyze historical financial data of Tesla and forecast key indicators like revenue and stock prices to support data-driven investment decisions.
+To extract insights from Tesla’s financial and stock data and build predictive models to forecast future trends that support investment and performance analysis.
 
-🛠 Tools & Technologies
+🛠 Tools & Libraries
 
-Python: Pandas, Prophet, Matplotlib, Seaborn
-Power BI: Interactive dashboards and financial KPI visualization
+Python
+
+Pandas – Data manipulation
+
+Matplotlib & Seaborn – Visualization
+
+Prophet – Time series forecasting (by Meta/Facebook)
 
 Jupyter Notebook
-Excel: For initial data cleaning and validation
 
-📊 Key Features
+📊 Workflow Overview
 
-Data Cleaning & Transformation: Parsed and cleaned Tesla’s financial and stock datasets for consistency.
+1. Data Collection & Cleaning
+Imported stock prices and quarterly financials from public sources (e.g., Yahoo Finance).
 
-Exploratory Data Analysis (EDA): Visualized trends in revenue, gross margin, cash flow, and stock performance.
+Cleaned and transformed data for analysis (date formatting, missing values, etc.).
 
-Forecasting Model: Used Meta’s Prophet library to forecast future stock prices and revenue with performance metrics (MAE, RMSE).
+2. Exploratory Data Analysis (EDA)
+Visualized trends in Tesla’s revenue, profit, stock prices, and margins.
 
-Power BI Dashboard: Built a dashboard to track KPIs and visualize performance over time for executive-level reporting.
+Correlation analysis between financial KPIs and market performance.
 
-📈 Forecasting Methodology
+3. Forecasting with Prophet
+Applied Prophet to model and forecast:
 
-Implemented Prophet for time series modeling.
+Stock Price over the next 12 months
 
-Considered seasonality, holidays, and trend components.
+Revenue Growth using historical financial data
 
-Evaluated model accuracy using Mean Absolute Error (MAE) and Root Mean Squared Error (RMSE).
+Evaluated models using MAE and RMSE for accuracy.
 
+📌 Key Insights
+
+Tesla has shown steady revenue growth and improving gross margins.
+
+Forecast indicates continued upward revenue trends, though stock prices may show volatility.
+
+Seasonal patterns and quarterly trends significantly impact stock performance.
+
+✅ How to Run
+
+1. Clone the repository or download the `.ipynb` file.
+2. Open it in Jupyter Notebook or VS Code with a Python kernel.
+3. Run all cells in order after installing required packages:
+   ```bash
+   pip install pandas matplotlib prophet
+ 
 # Project 3
 
 📌 Tesla Financial Dashboard (Power BI)
@@ -118,7 +141,7 @@ Visual insights support investment analysis and executive decision-making.
 2. Explore each page and interact with filters/slicers.
 3. Analyze trends, compare metrics over time, or export charts for presentations.
 
-> *This Power BI dashboard is part of a larger financial analysis project built for learning and portfolio showcasing.
+> *This Power BI dashboard is part of a larger financial analysis project built for learning and portfolio showcasing.*
 
 
 # Project 4
