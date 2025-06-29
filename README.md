@@ -261,3 +261,45 @@ Seasonal purchase behavior and trends
 📬 Feedback & Contributions
 
 Feel free to suggest improvements or raise issues. Contributions are welcome!
+
+# Project 7
+
+📌 Customer Segmentation & Prediction – Python ML Project
+
+🧠 Project Overview
+
+This project uses machine learning to segment customers into distinct groups and predict their purchasing behavior. The goal is to help businesses personalize marketing strategies and improve customer targeting.
+
+🚀 Key Features
+
+Data Preprocessing: Handled missing values, outliers, and feature scaling.
+
+Segmentation: Applied K-Means clustering to group customers by behavior.
+
+Prediction: Built classification models to predict purchase intent.
+
+Visualization: Used plots to analyze cluster characteristics and model performance.
+
+📁 Files
+
+Customer Segmentation and Prediction.ipynb: Main Jupyter Notebook with all code, visualizations, and results.
+
+🛠 Tools & Libraries
+
+Python (Jupyter Notebook)
+
+Pandas, NumPy, Scikit-learn
+
+Matplotlib, Seaborn
+
+💡 Use Cases
+
+Targeted marketing
+
+Customer profiling
+
+Sales strategy optimization
+
+📬 Feedback & Contributions
+
+Feel free to fork, raise issues, or suggest improvements!
