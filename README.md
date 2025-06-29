@@ -209,6 +209,7 @@ Dashboards helped visualize safety and education gaps across neighborhoods
 This Power BI dashboard provides a comprehensive analysis of Amazon sales data to uncover key trends, product performance, and customer behavior. It is designed for quick, actionable insights for business teams and decision-makers.
 
 🚀 Key Features
+
 Sales Overview: Total revenue, profit, quantity sold, and order trends.
 
 Top Products: Best-selling items by revenue and quantity.
@@ -222,6 +223,7 @@ Customer Trends: Average order value, repeat customers, and order frequency.
 Time Intelligence: Month-on-month and year-on-year comparisons.
 
 📁 File
+
 Amazon Sales Dashboard.pbix: Power BI project file containing data model, visuals, and DAX measures.
 
 🛠 Tools & Technologies
@@ -233,6 +235,7 @@ DAX (Data Analysis Expressions)
 Data Cleaning & Transformation using Power Query
 
 📈 Use Cases
+
 Business performance tracking
 
 Identifying top-selling products and regions
@@ -240,6 +243,7 @@ Identifying top-selling products and regions
 Strategic decision-making based on sales trends
 
 📌 Getting Started
+
 Download and open the .pbix file in Power BI Desktop.
 
 Review the dashboards and visuals.
@@ -247,6 +251,7 @@ Review the dashboards and visuals.
 Connect your own data (if needed) by updating the data source in Power Query.
 
 🧠 Insights Delivered
+
 Top 10 products contributing to revenue
 
 High-performing regions and low-performing categories
@@ -254,4 +259,5 @@ High-performing regions and low-performing categories
 Seasonal purchase behavior and trends
 
 📬 Feedback & Contributions
+
 Feel free to suggest improvements or raise issues. Contributions are welcome!
